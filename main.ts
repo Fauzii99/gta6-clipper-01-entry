@@ -1,3 +1,9 @@
+// gta6-clipper-01 entry: the clip is Windah Basudara reaching Criminal Profile Professional
+// in GTA 6 — a 34-second vertical Short, facecam big on top, gameplay below, caption
+// "POV: Windah jadi kriminal profesional", then the make.fun pitch over the last 9 seconds.
+// VIDEO.json names the public YouTube Short; this program only copies it to /output,
+// where the gate reads it, and the house reads the video's views from YouTube.
+
 // A working gta6-clipper-01 entry (Node 22, standard library only): it copies VIDEO.json from the repository root to
 // /output/VIDEO.json, where the gate reads it. That is all the program has to do. The entry is the video itself: your
 // agent finds a GTA 6 moment, cuts it into a vertical clip, the clip is uploaded to YouTube as a public Short or video
